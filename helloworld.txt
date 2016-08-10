@@ -1,6 +1,28 @@
+COMMANDS
 1. cd - Changing the directory(folder) you're in
- *C:/Users/student/documents - current directory
- *Cd  C:/Users/student/documents/github - changes directory to 'github'
+	*C:/Users/student/documents - current directory
+	*Cd  >Users/student/documents/github - changes directory to 'github'
 
 2. ls - Lists the folders/files/directories inside the current directory
 	you're in.
+	*C:/Users/student/documents>ls
+	*C:/Users/student/documents>Files:
+	   --a--	8/10/2016   9:30 AM 	Notes	
+
+3. mkdir - Make a directory within the directory you're in.
+	*C:/Users/student/documents>mkdir Github/Notes
+	*^^^ - The notes folder should now be within the Github
+	       folder, which is inside of the Documents folder.
+
+4. Touch - Make a file inside the directory you're in.
+	*It makes txt files and others that are not a directory.
+	*C:/Users/student/documents>touch Notes.txt
+	*^^^ - This should have made a Notes file within the documents
+	       folder.
+
+5. ../
+
+6.
+
+
+	
