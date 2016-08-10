@@ -20,9 +20,20 @@ COMMANDS
 	*^^^ - This should have made a Notes file within the documents
 	       folder.
 
-5. ../
+5. cd ../ - Go back one directory
 
-6.
+6. cd .. -  Go back to root folder.(C:)
+
+GIT COMMANDS
+1. Git init - Initialize project
+
+2. Git status - Check status of project
+
+3. "Clean" - no red in status
+
+4. git add <file name> -
+
+5. Git commit -m 'whatever' -
 
 
 	
