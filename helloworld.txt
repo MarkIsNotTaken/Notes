@@ -1,0 +1,6 @@
+1. cd - Changing the directory(folder) you're in
+ *C:/Users/student/documents - current directory
+ *Cd  C:/Users/student/documents/github - changes directory to 'github'
+
+2. ls - Lists the folders/files/directories inside the current directory
+	you're in.
