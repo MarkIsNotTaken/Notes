@@ -15,7 +15,7 @@ COMMANDS
 	       folder, which is inside of the Documents folder.
 
 4. Touch - Make a file inside the directory you're in.
-	*It makes txt files and others that are not a directory.
+	*It makes txt files and other files that are not a directory.
 	*C:/Users/student/documents>touch Notes.txt
 	*^^^ - This should have made a Notes file within the documents
 	       folder.
@@ -29,11 +29,32 @@ GIT COMMANDS
 
 2. Git status - Check status of project
 
-3. "Clean" - no red in status
+3. git add <file name> -  
 
-4. git add <file name> -
+4. Git commit -m 'helloworld.txt' - Adds a file to your local git(repository)
 
-5. Git commit -m 'whatever' -
+5. Git push - Adds the commited file to the Remote(Github)
+
+GENERAL INFORMATION
+1. GUI - Graphical User Interface, it is something that makes it
+		 easier for the user to interact with the computer through 
+		 visual representations of functions.
+
+2. CLI - Command Line Interface, 
+
+
+ THREE LEVELS OF KNOWING
+ 1. Knowing and understanding the information gained
+
+ 2. Teaching and reinforcing the concepts that you have learned
+
+ 3. Grocking - To understand naturally - it being a nearly permanent
+ 				of your knowledge.
+
+ APP ENVIROMENTS
+ 1. Mobile/Phone apps
+ 2. Desktop/Laptop apps
+
 
 
 	
