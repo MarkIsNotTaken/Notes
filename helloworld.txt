@@ -44,6 +44,15 @@ GENERAL INFORMATION
 
 3. HTML - Hypertext Markup Language, 
 
+4. UI - User Interface, the visual elements of the computer, what the 
+        user sees on websites. 
+
+5. UX - User Experience, what the user experiences with the websites 
+        they go in. The interactibles and where things are. Design.
+
+6. CSS - 
+
+7. Javascript - 
 
  THREE LEVELS OF KNOWING
  1. Knowing and understanding the information gained
@@ -57,7 +66,7 @@ GENERAL INFORMATION
  1. Mobile/Phone apps
  2. Desktop/Laptop apps
 
- 1TML
+ HTML
  1. <p></p> - Paragraph element
  2. <a> - Closing tag
  3. <header></header> - Things such as navigations and logos go here
@@ -68,7 +77,6 @@ GENERAL INFORMATION
  6. <span></span> - Inline elements, <img />
  7. <!-- comment --> - Writes comment within structure.
  8. <img src="image source" /> - An attribute
-
 
 
 	
