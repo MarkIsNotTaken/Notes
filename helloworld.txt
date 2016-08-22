@@ -54,6 +54,8 @@ GENERAL INFORMATION
 
 7. Javascript - 
 
+8. 
+
  THREE LEVELS OF KNOWING
  1. Knowing and understanding the information gained
 
@@ -77,6 +79,9 @@ GENERAL INFORMATION
  6. <span></span> - Inline elements, <img />
  7. <!-- comment --> - Writes comment within structure.
  8. <img src="image source" /> - An attribute
-
+ 9. <UL> - Unordered list, bullet points
+ 10. <LI> - List Item,
+ 11. <OL> - Ordered List,
+ 12. <div aside> - 
 
 	
