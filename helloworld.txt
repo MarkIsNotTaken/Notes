@@ -70,7 +70,7 @@ GENERAL INFORMATION
 
  HTML
  1. <p></p> - Paragraph element
- 2. <a> - Closing tag
+ 2. </a> - Closing tag
  3. <header></header> - Things such as navigations and logos go here
  4. <footer></footer> - Copyright usually goes here
  5. <div></div> - Block element, it always starts a line and is 
@@ -83,5 +83,45 @@ GENERAL INFORMATION
  10. <LI> - List Item,
  11. <OL> - Ordered List,
  12. <div aside> - 
+ 13. <Title> - Describes the website
 
-	
+ CSS
+ 1. Class - 
+ 2. IDs - Can only be used once per page
+ 3. Style - style="background-color(property):salmon(value)"
+
+ PITCH
+ 1. High Concept Pitch - Explains app/idea into 1-2 sentences
+ 2. Traction - 
+ 3. Minimum Viable Product - Essentially a draft or prototype
+ 4. Elecator Pitch - 
+
+ NOTES
+ 1. Responsive Desgin - Building a site to respond to multiple sizes also known as fluid design.
+ 2. Grid Based Design - Literally grid based, Tumblr and stuff.
+ 3. Media Queries - Break points in CSS that tell your app to change based on screen size.
+ 4. Em(CSS) -  Relative to the font-size of the element (2em is 2 times the current font size of the element) Use to adust parent size by 1.5. Used in responsive design to make the elements on static pages adapt to screen size.
+ 5. Converting EM -> PX - Multiple px by 1.5
+ 6. Psuedo-Class - Used to define a special state of an element
+ 7. Mobile Design - Apps designed for mobile devices.
+ 8. Specificity - Used to tell your CSS which elements to take priority. div.navi p (color:blue) vs navi (color:blue), the former takes priority due to being specific.
+ 9.
+
+ JAVASCRIPT
+ PEMDAS - It works
+
+ Variables - must have a value of a certain data type, 
+ 			 no spaces, do not begin with numbers,
+
+ Alphanumeric - 90kki998 is a string due to having both 				   letters and #s, so it must be in ""
+
+ =/== - single, assigning values
+ 		double or more, comparing values if they are the same
+
+ Boolean Operators - < > <= =>
+
+ AND/OR - && + ||
+
+ Function - Execute statement
+
+ Return - Can only be used once, any console log typed after will not be recognized
