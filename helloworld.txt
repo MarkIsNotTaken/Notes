@@ -113,7 +113,7 @@ GENERAL INFORMATION
  Variables - must have a value of a certain data type, 
  			 no spaces, do not begin with numbers,
 
- Alphanumeric - 90kki998 is a string due to having both 				   letters and #s, so it must be in ""
+ Alphanumeric - 90kki998 is a string due to having both letters and #s, so it must be in ""
 
  =/== - single, assigning values
  		double or more, comparing values if they are the same
@@ -125,3 +125,4 @@ GENERAL INFORMATION
  Function - Execute statement
 
  Return - Can only be used once, any console log typed after will not be recognized
+ 
